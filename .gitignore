@@ -1,0 +1,4 @@
+/target
+/src/ts/*.js
+
+/node_modules

@@ -1,0 +1,8 @@
+[package]
+name = "embedded_deno_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+deno_core = "0.225.0"
+serde = "1.0.190"
